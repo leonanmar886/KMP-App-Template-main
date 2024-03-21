@@ -17,8 +17,3 @@ captures
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # Project exclude paths
-/.fleet/
-/composeApp/
-/gradle/
-/images/
-/iosApp/
